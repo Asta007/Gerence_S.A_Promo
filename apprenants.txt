@@ -1,0 +1,15 @@
+Id,Promo,Prénom,Nom,Dat.Nais,Tel,Mail,Statu
+1,3,Ababacar,Asta,2019-05-17,775477298,teste@gmail.com,exclure
+2,1,Yaya,ly,12/05/99,776489298,teste1@gmail.com,1
+3,1,Odd,dellaro,5/01/86,765892354,teste2@gmail.com,1
+4,2,yuli,ishiyama,09/2/59,65984568,teste3@gmail.com,1
+5,2,Alpha,Sy,2019-05-17,7894564,teste@gmail.com,1
+6,3,Beta,bartol,2019-05-17,654987,some@gmail.com,1
+7,1,Odd,dellaro,5/01/86,765892354,teste2@gmail.com,1
+8,2,yuli,ishiyama,09/2/59,65984568,teste3@gmail.com,1
+9,2,Alpha,Sy,2019-05-17,7894564,teste@gmail.com,1
+10,2,Gamma,Gam,2019-05-17,7754889532,some@gmail.com,1
+11,3,Ababacar,Asta,2019-05-17,775477298,teste@gmail.com,exclure
+12,1,Yaya,ly,12/05/99,776489298,teste1@gmail.com,1
+13,1,Odd,dellaro,5/01/86,765892354,teste2@gmail.com,1
+14,2,yuli,ishiyama,09/2/59,65984568,teste3@gmail.com,1
